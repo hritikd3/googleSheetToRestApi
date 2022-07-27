@@ -7,4 +7,5 @@
 - open AppScript and write JS code. 
 - after completing click on deployment and then options and select web app
 - give it a name and select share to *anyone*
-
+- it will open your google acocunt to authorize and you are good to go 
+- Now copy the *URL* i.e, your RestApi and use it in your sideProject
